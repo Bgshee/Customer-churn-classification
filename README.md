@@ -18,10 +18,20 @@ This analysis uses data sourced from  SyriaTel, a telecommunications company a C
 
 (b)Correlation heatmaps
 -This is to show the correlation and relation between the different features
+![image](https://github.com/user-attachments/assets/72ed5e62-340f-417f-ad14-0e3d73b13a32)
+
 (c)Barchart to check the count of churn and international plan
 -Correlation between international plan and churn: Customers with an international plan churned more frequently.
+![image](https://github.com/user-attachments/assets/7b8e8337-3513-4327-9897-f37b413e9239)
+
 (d)Plotting distributions of the: 'total day minutes',  'customer service calls', 'total night minutes', 'total intl minutes' in relation to churn rate.
 -To see how these features are related with churn
+![image](https://github.com/user-attachments/assets/6e27b12e-5a2b-4e4d-899f-51f1008e4c5c)
+![image](https://github.com/user-attachments/assets/2372691f-3a54-4007-a0d1-2bb2a96677cb)
+![image](https://github.com/user-attachments/assets/94e73ada-03bf-4cb4-8167-ad511dc94172)
+![image](https://github.com/user-attachments/assets/e73f29fb-f070-47f6-9bda-f398cef813e6)
+
+
 
 ## Modelling
 -The Models I chose to use are:
